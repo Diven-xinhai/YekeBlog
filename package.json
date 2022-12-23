@@ -1,0 +1,15 @@
+{
+  "name": "YekeBlog",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"localhost\"",
+    "build": "vuepress build .",
+    "d": "bash deploy.sh"
+  },
+  "devDependencies": {
+    "vuepress": "1.9.7",
+    "vuepress-theme-reco": "1.6.16"
+  },
+  "description": "野克的博客"
+}
