@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{424:function(t,e,u){"use strict";u.r(e);var n=u(2),s=Object(n.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("Vue2的使用Vue2的使用Vue2的使用Vue2的使用Vue2的使用Vue2的使用")])])}),[],!1,null,null,null);e.default=s.exports}}]);
